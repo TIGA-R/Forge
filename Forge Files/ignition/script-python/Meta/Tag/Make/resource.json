@@ -1,0 +1,17 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "code.py"
+  ],
+  "attributes": {
+    "hintScope": 2,
+    "lastModificationSignature": "9ea2b62cd493c6000527491481df0ffd3c2f4ab149d564c808d18ff920b33938",
+    "lastModification": {
+      "actor": "jmapes",
+      "timestamp": "2024-07-11T17:35:41Z"
+    }
+  }
+}

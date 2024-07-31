@@ -1,0 +1,7 @@
+{
+  "title": "global",
+  "description": "This project is used to house common resources to all projects.",
+  "parent": "",
+  "enabled": true,
+  "inheritable": true
+}
