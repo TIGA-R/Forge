@@ -4,6 +4,7 @@
 siteName = 'Site Name' # Update Name  
 ### IMPORTANT -> MAKE SURE TO BUILD THE DEVICE IN AUTOSOLO AND ENABLE THE DEVICE BEFORE RUNNING FINAL `run` FUNCTION ###
 deviceName = 'DEVICE_RD' # Update Device Name from Autosol
+deviceType = 'fb3000'
 area = 'North' # List area (North/South)
 documentation = '' # Update Documentation/ticket reference  
 numWells = 0 # Update number of wells
@@ -311,7 +312,7 @@ upperSiteConfigDict =  {
 	}
 
 siteConfigDict = {key.lower(): val.keys() for key, val in upperSiteConfigDict.items()}
-device = Meta.Tag.Make.build_device(deviceName, siteName, 'fb3000', area, documentation)
+device = Meta.Tag.Make.build_device(deviceName, siteName, deviceType, area, documentation)
 ### Do Not Modify ###  
 siteDict = {'well_' + str(idx): {'name':wellDict[idx], 'equip': wellEquipDict[idx], 'mid': wellMerrickDict[idx]} for idx in range(1, numWells + 1)}
 siteDict['site'] = siteConfigDict
