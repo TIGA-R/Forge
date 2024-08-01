@@ -4,7 +4,7 @@
 siteName = 'Site Name' # Update Name  
 ### IMPORTANT -> MAKE SURE TO BUILD THE DEVICE IN AUTOSOLO AND ENABLE THE DEVICE BEFORE RUNNING FINAL `run` FUNCTION ###
 deviceName = 'DEVICE_RD' # Update Device Name from Autosol
-deviceType = 'fb3000'
+deviceType = 'fb3000' # device type as mapped in the config file
 area = 'North' # List area (North/South)
 documentation = '' # Update Documentation/ticket reference  
 numWells = 0 # Update number of wells
