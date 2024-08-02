@@ -5,10 +5,10 @@ The tool for building sites & equipment tags & metadata for Magnolia and beyond
 
 ## Documentation Resources
 ### Core Building Tools
-- [Site Builder Utility](Builder/SiteBuilderDocumentation.md)
-- [Equipment Builder Utility](https://github.com/TIGA-R/Forge/issues/4)
+- [Site Builder Utility](Documentation/Builder/SiteBuilder.md)
+- [Equipment Builder Utility](Documentation/Builder/EquipmentBuilder.md)
 
 ### Metadata Accessory Utilities
-- [Generate New Equipment](https://github.com/TIGA-R/Forge/issues/3)
-- [Generate New Well](https://github.com/TIGA-R/Forge/issues/2)
-- [Generate New Facility](https://github.com/TIGA-R/Forge/issues/1)
+- [Generate New Equipment](Documentation/Metadata/Equipment.md)
+- [Generate New Well](Documentation/Metadata/Well.md)
+- [Generate New Facility](Documentation/Metadata/Facility.md)
