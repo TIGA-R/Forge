@@ -5,7 +5,7 @@ The tool for building sites & equipment tags & metadata for Magnolia and beyond
 
 ## Documentation Resources
 ### Core Building Tools
-- [Site Builder Utility](https://github.com/TIGA-R/Forge/issues/5)
+- [Site Builder Utility](Builder/SiteBuilderDocumentation.md)
 - [Equipment Builder Utility](https://github.com/TIGA-R/Forge/issues/4)
 
 ### Metadata Accessory Utilities
